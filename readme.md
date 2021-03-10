@@ -7,6 +7,7 @@ Controlling LED by bending finger.
 <br>
 More here: http://etextile-summercamp.org/swatch-exchange/finger-bend/ 
 <br>
+<center>
 <img src="https://live.staticflickr.com/65535/51012993181_3c31128306_c.jpg" width="800" height="533" alt="Finger Bend - Swatch Exchange 2021">
 <br>
 <img src="https://live.staticflickr.com/65535/51015299827_bb6329da85_c.jpg" width="800" height="528" alt="finger bend materials">
@@ -18,3 +19,4 @@ More here: http://etextile-summercamp.org/swatch-exchange/finger-bend/
 <img src="https://live.staticflickr.com/65535/51015456141_8c3c185535_c.jpg" width="800" height="533" alt="Finger Bend Setup Description">
 <br>
 <img src="https://live.staticflickr.com/65535/50123762196_645597325b_c.jpg" width="800" height="800" alt="WILLPOWER STUDIOS | Identity">
+</center>
