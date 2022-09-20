@@ -5,7 +5,12 @@ A bend sensor for the index finger.
 <i>Finger Bend</i> was created for the Swatch Exchange Project. 
 Controlling LED by bending finger. 
 <br>
-More here: http://etextile-summercamp.org/swatch-exchange/finger-bend/ 
+More here: 
+http://etextile-summercamp.org/swatch-exchange/finger-bend/ 
+<br>
+https://willpowerstudios.com/tech-lab/finger-bend/
+<br>
+https://www.instructables.com/Finger-Bend/
 <br>
 <center>
 <img src="https://live.staticflickr.com/65535/51012993181_3c31128306_c.jpg" width="800" height="533" alt="Finger Bend - Swatch Exchange 2021">
